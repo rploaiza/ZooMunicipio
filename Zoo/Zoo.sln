@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo.csproj", "{D850EF74-214D-42CF-7014-144C12A3B67E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.Plugins", "Zoo.Plugins.csproj", "{A4B7AEEA-9CDA-80C5-9D46-595F889A4A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.Editor", "Zoo.Editor.csproj", "{9EC34F18-F6A0-BAEB-1B0C-A24960DDA4FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D850EF74-214D-42CF-7014-144C12A3B67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D850EF74-214D-42CF-7014-144C12A3B67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D850EF74-214D-42CF-7014-144C12A3B67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D850EF74-214D-42CF-7014-144C12A3B67E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B7AEEA-9CDA-80C5-9D46-595F889A4A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B7AEEA-9CDA-80C5-9D46-595F889A4A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B7AEEA-9CDA-80C5-9D46-595F889A4A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B7AEEA-9CDA-80C5-9D46-595F889A4A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC34F18-F6A0-BAEB-1B0C-A24960DDA4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC34F18-F6A0-BAEB-1B0C-A24960DDA4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC34F18-F6A0-BAEB-1B0C-A24960DDA4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC34F18-F6A0-BAEB-1B0C-A24960DDA4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
